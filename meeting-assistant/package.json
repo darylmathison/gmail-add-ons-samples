@@ -15,5 +15,8 @@
     "gulp-concat": "^2.6.1",
     "jshint": "^2.9.5",
     "prettier": "1.7.3"
+  },
+  "dependencies": {
+    "clasp": "^0.1.0"
   }
 }
